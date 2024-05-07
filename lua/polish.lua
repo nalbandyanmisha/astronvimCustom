@@ -9,6 +9,7 @@ vim.api.nvim_create_autocmd("BufEnter", {
   command = "set rnu nu",
 })
 
+vim.opt.conceallevel = 3
 -- Set up custom filetypes
 -- vim.filetype.add {
 --   extension = {

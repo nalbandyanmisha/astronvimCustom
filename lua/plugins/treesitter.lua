@@ -11,6 +11,7 @@ return {
       "rust",
       "solidity",
       "javascript",
+      "norg",
       -- add more arguments for adding more treesitter parsers
     })
 
